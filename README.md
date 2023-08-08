@@ -18,3 +18,7 @@ localhost8080 에서 회원가입 및 회원목록 조회 가능
 
 ## AOP
 AOP를 활용하여 각 메소드의 TimeTrace를 확인가능
+
+## Test
+- Unit Test : 각 기능의 동작이 올바르게 작동하는지에 대한 Test 
+- Integration Test : 각 기능의 동작이 DataBase와 연동되어 올바르게 작동하는지에 대한 Test
